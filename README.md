@@ -1,1 +1,1 @@
-# firmware
+# firmware  (C++ ,C 를 통한 게임 만들기 갤로그, 개구리 게임 )
